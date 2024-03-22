@@ -8,7 +8,7 @@
 - IT Technician specialized in web development at IFC
 - Web developer since 2021
 
-## You can find me at
+## You can find me at:
   - [LinkedIn](https://www.linkedin.com/in/vitorapn/)
   - [Instagram](https://www.instagram.com/vitorapn/)
   - [Gmail](mailto:vitorapuccineto@gmail.com)
