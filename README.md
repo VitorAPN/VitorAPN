@@ -8,6 +8,6 @@
 [](https://img.shields.io/github/commit-activity/m/vitorapn?style=flat-square)
 ## You can find me at:
   - [LinkedIn](https://www.linkedin.com/in/vitorapn/)
-  - [Instagram](https://www.instagram.com/vitorapn/)
+  - [Instagram](https://www.instagram.com/vitei.dev/)
   - [Gmail](mailto:vitorapuccineto@gmail.com)
 
